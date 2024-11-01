@@ -2,6 +2,8 @@
 
 This repository is a collection of resources that I create/collect while discussing different research papers, blog posts, videos, etc.
 
+Session recording are hosted on [my YouTube channel](https://www.youtube.com/@Elixir_Exchange/videos).
+
 ## Resources Covered till Date
 
 **Legend:**
