@@ -2,7 +2,8 @@
 
 ## Session Recording
 
-1. [YouTube Link](https://youtu.be/qc7iFn6Te2I)
+1. [Whiteboard session YouTube Link](https://youtu.be/qc7iFn6Te2I)
+1. [Live coding session YouTube Link](https://youtu.be/6aZ2_u6dw24?si=OlFYNaj8B890ywwI)
 
 ## Sieve Whiteboard
 
