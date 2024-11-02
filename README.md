@@ -17,3 +17,4 @@ Session recording are hosted on [my YouTube channel](https://www.youtube.com/@El
 S. No. | Name | Status
 ---------|----------|---------
  1 | NanoLog: A Nanosecond Scale Logging System | ✅
+ 2 | Sieve is Simpler than LRU: an Efficient Turn-Key Eviction Algorithm for Web Caches | ✅
