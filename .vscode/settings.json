@@ -1,0 +1,7 @@
+{
+    "conventionalCommits.scopes": [
+        "NanoLog",
+        "Sieve",
+        "B-Tree"
+    ]
+}
