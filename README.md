@@ -19,3 +19,4 @@ S. No. | Name | Status
  1 | NanoLog: A Nanosecond Scale Logging System | ✅
  2 | Sieve is Simpler than LRU: an Efficient Turn-Key Eviction Algorithm for Web Caches | ✅
  3 | Coding a B-Tree on stream | ✅
+ 4 | Better bitmap performance with Roaring bitmaps | ✅
