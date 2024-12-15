@@ -2,6 +2,7 @@
     "conventionalCommits.scopes": [
         "NanoLog",
         "Sieve",
-        "B-Tree"
+        "B-Tree",
+        "Roaring bitmaps"
     ]
 }
