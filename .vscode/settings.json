@@ -5,4 +5,7 @@
         "B-Tree",
         "Roaring bitmaps"
     ]
+    "cSpell.words": [
+        "dicedb"
+    ]
 }
