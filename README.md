@@ -20,3 +20,4 @@ S. No. | Name | Status
  2 | Sieve is Simpler than LRU: an Efficient Turn-Key Eviction Algorithm for Web Caches | ✅
  3 | Coding a B-Tree on stream | ✅
  4 | Better bitmap performance with Roaring bitmaps | ✅
+ 5 | The Art of Latency Hiding in Modern Database Engines | ✅
